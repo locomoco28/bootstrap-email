@@ -1,7 +1,4 @@
-/docs/_site
-/docs/.sass-cache
-Gemfile.lock
-/.sass-cache
+/docs
 .DS_Store
 .byebug_history
 /spec/rails_app/tmp
